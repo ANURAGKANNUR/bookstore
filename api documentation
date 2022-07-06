@@ -1,0 +1,10 @@
+
+
+
+Login - http://127.0.0.1:8001/library/login/
+register- http://127.0.0.1:8001/library/register/
+Registration fields=username,email,password,password2,is_staff
+is_staff is true when the user is admin user otherwise student user
+
+list of books- http://127.0.0.1:8001/library/list/
+update/delete-http://127.0.0.1:8001/library/1
